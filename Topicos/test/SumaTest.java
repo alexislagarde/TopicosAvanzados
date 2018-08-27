@@ -19,7 +19,7 @@ public class SumaTest {
 		assertEquals (esperado, calcu.suma(-2,-2));
     	}
 
-	}
+}
 	
 	
 
